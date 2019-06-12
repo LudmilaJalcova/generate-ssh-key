@@ -27,3 +27,8 @@ ktorý prida SSH kľúč k spustenemu agentovi
 ![5](./images/5.png)
 11. a nakoniec potvrdím.
 ![6](./images/6.png)
+
+cesta, kde sa nachadzajú ssh kľúče
+```
+C:\Users\UserName\.ssh
+```
